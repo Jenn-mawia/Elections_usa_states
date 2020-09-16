@@ -4,9 +4,7 @@
 1. Jenipher Mawia
 
 # Description
-This is a brief analysis which I did on the states of USA, to find out how much it will take for a presidential candidate to win elections and by which threshold. 
-
-I particularly used **SQL** for this analysis. 
+This is a brief analysis which I did on the states of USA, to find out how much it will take for a presidential candidate to win elections and by which threshold.  
 
 I found that out of all the states in the US, a candidate will require a minimum threshold of 269 grandelectors votes to guarantee a win.
 
